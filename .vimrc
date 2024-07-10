@@ -11,7 +11,7 @@ Plugin 'VundleVim/Vundle.vim'
 "All of your Plugins must be added before the following line"
 call vundle#end()            " required
 
-"Theme Plugin:"
+"Theme Plugin: "
 Plugin 'morhetz/gruvbox'
 
 "AutoComplete Plugin:"
